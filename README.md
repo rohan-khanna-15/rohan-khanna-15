@@ -6,6 +6,7 @@
 ---
 
 ## 🚀 About Me  
+
 I’m a developer in the making who enjoys breaking down complex problems and building practical solutions.  
 Currently:  
 - Strengthening my **DSA fundamentals** (300+ LeetCode problems solved)  
@@ -15,7 +16,7 @@ Currently:
 
 ---
 
-## 🛠️ Tech Toolbox  
+### 🛠️ Tech Toolbox  
 
 **Languages:** Java, C, JavaScript, SQL, Python 
 **Core Skills:** Data Structures & Algorithms, OOP, DBMS, OS  
