@@ -16,13 +16,13 @@ Currently:
 
 ---
 
-### 🛠️ Tech Toolbox  
+## 🧰 Tech Toolbox
 
-**Languages:** Java, C, JavaScript, SQL, Python 
-**Core Skills:** Data Structures & Algorithms, OOP, DBMS, OS  
-**Frontend:** HTML, CSS, React  
-**Backend:** Node.js
-**Databases:** MySQL   
+- 💻 **Languages:** Java, C, JavaScript, SQL, Python  
+- 🧮 **Core Skills:** Data Structures & Algorithms, OOP, DBMS, Operating Systems  
+- 🎨 **Frontend:** HTML, CSS, React.js  
+- ⚙️ **Backend:** Node.js  
+- 🗄️ **Databases:** MySQL  
 
 ---
 
