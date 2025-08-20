@@ -20,7 +20,7 @@ Currently:
 **Languages:** Java, C, JavaScript, SQL, Python 
 **Core Skills:** Data Structures & Algorithms, OOP, DBMS, OS  
 **Frontend:** HTML, CSS, React  
-**Backend:** Node.js 
+**Backend:** Node.js
 **Databases:** MySQL   
 
 ---
@@ -34,7 +34,7 @@ Books 📚 (love for learning, imagination, and diverse perspectives)
 
 ## 🤝 Let’s Connect!  
 📫 [Email me](mailto:khanna.rohan231@vit.edu)  
-💼 [LinkedIn](https://www.linkedin.com) *(add your profile link)*  
+💼 [LinkedIn](https://www.linkedin.com/in/rohan-khanna1512/) 
 
 ---
 ⭐ Always learning. Always building.  
