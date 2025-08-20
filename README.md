@@ -25,10 +25,11 @@ Currently:
 
 ---
 
-## 📌 Interests Beyond Code  
-Chess ♟️ (strategic thinking, patience, problem-solving)
-Cricket 🏏 (teamwork, resilience, adaptability)
-Books 📚 (love for learning, imagination, and diverse perspectives)
+### 📌 Interests Beyond Code  
+
+- ♟️ Chess *(strategic thinking, patience, problem-solving)*  
+- 🏏 Cricket *(teamwork, resilience, adaptability)*  
+- 📚 Books *(love for learning, imagination, and diverse perspectives)*  
 
 ---
 
